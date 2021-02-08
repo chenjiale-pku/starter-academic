@@ -66,4 +66,4 @@ I am a junior student at Turing Class, Peking University, advised by {{< staticr
 
 My research interests lie in the areas of EconCS and algorithm design.
 
-Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+<!-- Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. -->
