@@ -62,9 +62,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a junior student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Dr. Yuqing Kong{{< /staticref >}}.
+I am a junior student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Dr. Yuqing Kong{{< /staticref >}}. I'm also working with {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} at Northwestern University.
 
 <!-- I'm also working with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} at Harvard. -->
+
+
 
 My research interests lie in the areas of EconCS and algorithm design.
 
