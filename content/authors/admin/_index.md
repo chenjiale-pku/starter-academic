@@ -62,12 +62,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a junior student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Dr. Yuqing Kong{{< /staticref >}}. I'm also working with {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} at Northwestern University.
+I am a senior student at Turing Class, Peking University. My research interests mainly lie in the intersection between theoretical computer science and economics. I'm currently working with {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}} on crowdsoucing, and with {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} on online algorithms and exam-grading systems.
 
-<!-- I'm also working with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} at Harvard. -->
-
-
-
-My research interests lie in the areas of EconCS and algorithm design.
+During Spring 2021, I was working with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} on Markov decision process and fair allocation.
 
 <!-- Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. -->
