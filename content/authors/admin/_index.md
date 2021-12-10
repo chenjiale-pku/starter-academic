@@ -17,8 +17,8 @@ bio: My research interests mainly lie in the intersection of theoretical compute
 
 # Interests to show in About widget
 interests:
-- EconCS
-- Algorithm Design
+- Economics and Computation
+- Algorithms under Uncertainty
 
 # Education to show in About widget
 education:
@@ -62,8 +62,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a senior student at Turing Class, Peking University. My research interests mainly lie in the intersection between theoretical computer science and economics. I'm currently working with {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}} on crowdsoucing, and with {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} on online algorithms and exam-grading systems.
+I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. I am also fortunated to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} and {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} during my undergraduate years.
 
-During Spring 2021, I was working with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} on Markov decision process and fair allocation.
+My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanation and practical guidance for real social phenomena. I'm particularly interested in algorithmic game theory and online algorithms.
 
 <!-- Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. -->

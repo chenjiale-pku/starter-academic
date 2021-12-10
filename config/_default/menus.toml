@@ -10,8 +10,8 @@
 
 [[main]]
   name = "Manuscripts"
-  url = "#manuscripts"
-  weight = 15
+  url = "#manuscipts"
+  weight = 20
 
 # [[main]]
 #  name = "Posts"

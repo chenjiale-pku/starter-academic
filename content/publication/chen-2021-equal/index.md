@@ -2,7 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective"
-authors: [Jiale Chen, Yuqing Kong, Yuxuan Lu]
+authors:
+- Jiale Chen
+- Yuqing Kong
+- Yuxuan Lu
 date: 2021-07-07T12:51:36+08:00
 doi: ""
 
