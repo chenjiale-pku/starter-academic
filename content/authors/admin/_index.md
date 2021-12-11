@@ -62,8 +62,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. I am also fortunate to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} and {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} during my undergraduate years.
+I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. During Spring 2021, I am pleased to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}}. Here is a {{< staticref "file/reportHarvard.pdf" "newtab" >}}summary{{< /staticref >}} of the internship at Harvard. Currently I am fortunate to be advised by {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}}.
 
-My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for real social phenomena. I'm particularly interested in algorithmic game theory and online algorithms.
+My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena. I'm particularly interested in algorithmic game theory and online algorithms.
 
 <!-- Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. -->
