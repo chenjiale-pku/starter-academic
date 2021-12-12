@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena."
 
 ############################
 ## Site Features

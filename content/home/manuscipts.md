@@ -44,5 +44,3 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication.html).
 {{% /callout %}}
-
-$^\star$ indicates equal contribution.

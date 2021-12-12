@@ -1,10 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 title: "MicroscopeSketch: Accurate Sliding Estimation Using Adaptive Zooming"
 authors:
-- Zheng Zhong$^{\star}$
-- Jiale Chen$^{\star}$
+- Zheng Zhong
+- Jiale Chen
 - Shiqi Jiang
 - Yutong Hu
 - Tong Yang
