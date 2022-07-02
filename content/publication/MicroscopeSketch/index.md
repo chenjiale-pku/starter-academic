@@ -1,5 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
+draft: true
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
