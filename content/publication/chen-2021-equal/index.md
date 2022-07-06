@@ -19,7 +19,7 @@ publishDate: 2021-07-07T12:51:36+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Manuscript"
 publication_short: ""
 
 abstract: "In the setting where a group of agents is asked a single subjective multi-choice question (e.g. which one do you prefer? cat or dog?), we are interested in evaluating the quality of the collected feedback. However, the collected statistics are not sufficient to reflect how informative the feedback is since fully informative feedback (equal affection of the choices) and fully uninformative feedback (random selection) have the same uniform statistics.

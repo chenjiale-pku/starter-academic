@@ -17,8 +17,8 @@ bio: My research interests lie in the intersection of theoretical computer scien
 
 # Interests to show in About widget
 interests:
-- Economics and Computation
-- Algorithms under Uncertainty
+- Algorithmic Game Theory
+- Online Algorithms
 
 # Education to show in About widget
 education:
@@ -62,9 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. During Spring 2021, I am pleased to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}}.
-<!-- Here is a {{< staticref "file/reportHarvard.pdf" "newtab" >}}summary{{< /staticref >}} of the internship at Harvard. -->
-Currently I am fortunate to be advised by {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}}.
+I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. During Spring 2021, I am pleased to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}}.<!-- Here is a {{< staticref "file/reportHarvard.pdf" "newtab" >}}summary{{< /staticref >}} of the internship at Harvard. --> Currently I am fortunate to be advised by {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}}.
 
 My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena. I'm particularly interested in algorithmic game theory and online algorithms.
 

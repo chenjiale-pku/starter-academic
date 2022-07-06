@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "HoppingTimer: A Near-optimal Framework for Basic Estimation of Data Streams in Hopping Windows"
-authors: [Kaicheng Yang, Jianyu Wu, Pu Yi, Jiale Chen, Cheng Chen, Tong Yang, Bin Cui]
-date: 2020-06-01T00:00:00+08:00
+title: "A Note on Locally Fair Cake-Cutting"
+authors:
+- Jiale Chen
+date: 2022-07-06T00:00:00+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-01T00:00:00+08:00
+publishDate: 2022-07-06T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,11 +16,10 @@ publishDate: 2020-06-01T00:00:00+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Manuscript"
+publication: "Manuscript (Not Intended to Publish)"
 publication_short: ""
 
-abstract: "In high-speed data streams, recent items are often much more significant than outdated ones. Therefore, basic estimation of data streams in hopping windows is an important topic. Basic estimation tasks include cardinality estimation and membership query. There are three classic algorithms for basic tasks in fixed windows. The design goal of this paper is to devise a generic and near-optimal framework to adapt them to hopping windows. In this paper, we propose the HoppingTimer, a generic and near-optimal framework which can adapt fixed-window
-algorithms to time-based and count-based hopping windows for basic tasks. The key idea of HoppingTimer is to use hopping timestamps and local cleaning to clean outdated items. We apply HoppingTimer to three algorithms for basic tasks. Experimental results show that HoppingTimer is near-optimal in hopping windows, and achieves false positive rate about 1000 times lower than the state-of-the-art when using metrics of sliding-window model. All source codes are open-sourced and released at Github."
+abstract: "We studied the local fairness of the cake-cutting problem. We proposed an Ω(n2) lower bound for the local envy-freeness under star graphs with constraints and proposed a partial locally envyfree protocol for 4-Path which can be easily extended to 5-Path."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: file/HoppingTimer.pdf
-url_code: https://github.com/ImananAkihc/Hopping-Timer
+url_pdf: file/A_Note_on_Locally_Fair_Cake_Cutting.pdf
+url_code:
 url_dataset:
 url_poster:
 url_project:
