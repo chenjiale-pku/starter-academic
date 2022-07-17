@@ -6,11 +6,11 @@ title: Jiale Chen
 superuser: true
 
 # Role/position/tagline
-role: Undergrad in Computer Science
+role: Incoming Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Turing Class, Peking University
+- name:  Department of Management Science and Engineering, Stanford University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena.
@@ -23,9 +23,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Science
-    institution: Turing Class, School of EECS, Peking University
-    year: 2018-2022 (expected)
+  # - course: Ph.D. in Management Science and Engineering
+  #   institution: Stanford University
+  #   year: 2022-2027 (expected)
+  - course: B.Sc., Summa Cum Laude in Computer Science and Technology
+    institution: Turing Class, Peking University
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jiale_chen@pku.edu.cn
+  link: mailto:jialec@stanford.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -62,8 +65,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a final-year student at Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. During Spring 2021, I am pleased to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}}.<!-- Here is a {{< staticref "file/reportHarvard.pdf" "newtab" >}}summary{{< /staticref >}} of the internship at Harvard. --> Currently I am fortunate to be advised by {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}}.
+I have recently received my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Asst. Prof. Yuqing Kong{{< /staticref >}}. During my undergraduate years, I am fortunate to have worked closely with {{< staticref "http://procaccia.info/" "newtab" >}}Prof. Ariel Procaccia{{< /staticref >}} at Harvard University and {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Prof. Jason Hartline{{< /staticref >}} at Northwestern University.
 
-My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena. I'm particularly interested in algorithmic game theory and online algorithms.
+My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena.
+<!-- I'm particularly interested in algorithmic game theory and online algorithms. -->
+
+<b>I will be joining {{< staticref "https://msande.stanford.edu/" "newtab" >}}Stanford MS&E{{< /staticref >}} as a Ph.D. student in Fall 2022!</b>
 
 <!-- Here is my {{< staticref "file/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}. -->
