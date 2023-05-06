@@ -1,25 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-title: "A Note on Locally Fair Cake-Cutting"
-authors:
-- admin
-date: 2022-07-06T00:00:00+08:00
+
+title: "Fair Grading Algorithms for Randomized Exams"
+authors: [admin, Jason Hartline and Onno Zoeter]
+date: 2023-05-06T12:42:21-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-07-06T00:00:00+08:00
+publishDate: 2023-05-06T12:42:21-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "The 4th annual Symposium on Foundations of Responsible Computing"
+publication_short: "FORC 2023"
 
-abstract: "We studied the local fairness of the cake-cutting problem. We proposed an Ω(n2) lower bound for the local envy-freeness under star graphs with constraints and proposed a partial locally envyfree protocol for 4-Path which can be easily extended to 5-Path."
+abstract: "This paper studies grading algorithms for randomized exams. In a randomized exam, each student is asked a small number of random questions from a large question bank. The predominant grading rule is simple averaging, i.e., calculating grades by averaging scores on the questions each student is asked, which is fair ex-ante, over the randomized questions, but not fair ex-post, on the realized questions. The fair grading problem is to estimate the average grade of each student on the full question bank. The maximum-likelihood estimator for the Bradley-Terry-Luce model on the bipartite student-question graph is shown to be consistent with high probability when the number of questions asked to each student is at least the cubed-logarithm of the number of students. In an empirical study on exam data and in simulations, our algorithm based on the maximum-likelihood estimator significantly outperforms simple averaging in prediction accuracy and ex-post fairness even with a small class and exam size."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: uploads/A_Note_on_Locally_Fair_Cake_Cutting.pdf
+url_pdf: https://arxiv.org/abs/2304.06254
 url_code:
 url_dataset:
 url_poster:

@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/chenjiale-pku/chenjiale-pku.github.io.git
-	branch = master
