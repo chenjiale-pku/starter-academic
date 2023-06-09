@@ -43,7 +43,7 @@ url_poster: uploads/Fair Grading/Poster FORC 2023.pdf
 url_project:
 url_slides: uploads/Fair Grading/Fair Grading Algorithms for Randomized Exams.pptx
 url_source:
-url_video:
+url_video: https://youtu.be/R2WCz9CzOQc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
