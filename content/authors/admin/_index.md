@@ -22,13 +22,12 @@ organizations:
 #    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena.
+bio: My research interests include theoretical computer science in general with a focus on graph algorithms, and theoretical modeling in economics.
 
 # Interests to show in About widget
 interests:
-  - Algorithmic Game Theory
-  - Data Structure and Algorithms
-  - Algorithmic Fairness
+  - Graph Algorithms
+  - Theoretical Modeling in Economics
 
 # Education to show in About widget
 education:
@@ -77,8 +76,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a first-year Ph.D. student in operations research at Stanford University, rotating with Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}} and Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford{{< /staticref >}}. Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong{{< /staticref >}}. During my undergraduate years, I am fortunate to have worked closely with Prof. {{< staticref "http://procaccia.info/" "newtab" >}}Ariel Procaccia{{< /staticref >}} at Harvard University and Prof. {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Jason Hartline{{< /staticref >}} at Northwestern University.
+I am a second-year Ph.D. student in operations research at Stanford University, rotating with Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford{{< /staticref >}} and Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}}. Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong{{< /staticref >}}. During my undergraduate years, I am fortunate to have worked closely with Prof. {{< staticref "http://procaccia.info/" "newtab" >}}Ariel Procaccia{{< /staticref >}} at Harvard University and Prof. {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Jason Hartline{{< /staticref >}} at Northwestern University.
 
-
-My research interests lie in the intersection of theoretical computer science and economics, with a goal to provide elegant explanations and practical guidance for social phenomena.
-Recently I've been exploring topics in graph algorithms.
+My research interests include theoretical computer science in general with a focus on graph algorithms, and theoretical modeling in economics.
