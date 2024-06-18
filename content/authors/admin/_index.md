@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Operations Research
+role: Ph.D. Candidate in Operations Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,22 +22,22 @@ organizations:
 #    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include theoretical computer science in general with a focus on graph algorithms, and theoretical modeling in economics.
+bio: My research interests are in the design and analysis of algorithms with a current focus on matching algorithms in various settings.
 
 # Interests to show in About widget
-interests:
-  - Graph Algorithms
-  - Theoretical Modeling in Economics
+# interests:
+#   - Graph Algorithms
+#   - Dynamic Algorithms
 
-# Education to show in About widget
-education:
-  courses:
-  # - course: Ph.D. in Management Science and Engineering
-  #   institution: Stanford University
-  #   year: 2022-2027 (expected)
-  - course: B.Sc., Summa Cum Laude in Computer Science and Technology
-    institution: Turing Class, Peking University
-    year: 2018-2022
+# # Education to show in About widget
+# education:
+#   courses:
+#   # - course: Ph.D. in Management Science and Engineering
+#   #   institution: Stanford University
+#   #   year: 2022-2027 (expected)
+#   - course: B.Sc., Summa Cum Laude in Computer Science and Technology
+#     institution: Turing Class, Peking University
+#     year: 2018 -- 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,6 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student in operations research at Stanford University, rotating with Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford{{< /staticref >}} and Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}}. Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong{{< /staticref >}}. During my undergraduate years, I am fortunate to have worked closely with Prof. {{< staticref "http://procaccia.info/" "newtab" >}}Ariel Procaccia{{< /staticref >}} at Harvard University and Prof. {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Jason Hartline{{< /staticref >}} at Northwestern University.
+I am a second-year Ph.D. student in operations research at Stanford University, advised by Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford{{< /staticref >}}.<!-- and Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}}. --> Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong{{< /staticref >}}.
 
-My research interests include theoretical computer science in general with a focus on graph algorithms, and theoretical modeling in economics.
+During my undergraduate years, I am fortunate to have worked closely with Prof. {{< staticref "http://procaccia.info/" "newtab" >}}Ariel Procaccia{{< /staticref >}} on Fair Division and with Prof. {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Jason Hartline{{< /staticref >}} on Algorithmic Fairness.
+
+My research interests are in the design and analysis of algorithms with a current focus on matching algorithms in various settings.
