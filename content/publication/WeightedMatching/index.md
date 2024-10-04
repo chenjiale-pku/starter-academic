@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-title: "A Note on Locally Fair Cake-Cutting"
-authors:
-- admin
-date: 2022-07-06T00:00:00+08:00
+
+title: "Matching Composition and Efficient Weight Reduction in Dynamic Matching"
+authors: [Aaron Bernstein, admin, Aditi Dudeja, Zachary Langley, Aaron Sidford and Ta-Wei Tu]
+date: 2024-10-04T00:00:00-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-07-06T00:00:00+08:00
+publishDate: 2024-10-04T00:00:00-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "To appear in Proceedings of the 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: uploads/A_Note_on_Locally_Fair_Cake_Cutting.pdf
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:

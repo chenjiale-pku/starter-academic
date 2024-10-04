@@ -22,9 +22,7 @@ publication_types: ["3"]
 publication: "Accepted as a poster by the Twenty-Second ACM Conference on Economics and Computation (EC'21, Contributed Poster Session)"
 publication_short: ""
 
-abstract: "In the setting where a group of agents is asked a single subjective multi-choice question (e.g. which one do you prefer? cat or dog?), we are interested in evaluating the quality of the collected feedback. However, the collected statistics are not sufficient to reflect how informative the feedback is since fully informative feedback (equal affection of the choices) and fully uninformative feedback (random selection) have the same uniform statistics.
-
-Here we distinguish the above two scenarios by additionally asking for respondents' predictions about others' choices. We assume that informative respondents' predictions strongly depend on their own choices while uninformative respondents' do not. With this assumption, we propose a new definition for uninformative feedback and correspondingly design a family of evaluation metrics, called f-variety, for group-level feedback which can 1) distinguish informative feedback and uninformative feedback (separation) even if their statistics are both uniform and 2) decrease as the ratio of uninformative respondents increases (monotonicity). We validate our approach both theoretically and numerically. Moreover, we conduct two real-world case studies about 1) comparisons about athletes and 2) comparisons about stand-up comedians to show the superiority of our approach."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student in operations research at Stanford University, advised by Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford{{< /staticref >}}.<!-- and Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}}. --> Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong{{< /staticref >}}.
+I am a third-year Ph.D. student in operations research at Stanford University, advised by Prof. {{< staticref "https://www.aaronsidford.com/" "newtab" >}}Aaron Sidford.{{< /staticref >}}<!-- and Prof. {{< staticref "http://web.stanford.edu/~saberi/" "newtab" >}}Amin Saberi{{< /staticref >}}. --> Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by Prof. {{< staticref "https://cfcs.pku.edu.cn/yuqkong/" "newtab" >}}Yuqing Kong.{{< /staticref >}}
 
 During my undergraduate years, I am fortunate to have worked closely with Prof. {{< staticref "http://procaccia.info/" "newtab" >}}Ariel Procaccia{{< /staticref >}} on Fair Division and with Prof. {{< staticref "https://sites.northwestern.edu/hartline/" "newtab" >}}Jason Hartline{{< /staticref >}} on Algorithmic Fairness.
 

@@ -13,14 +13,13 @@ publishDate: 2023-12-15T00:00:00-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "To appear in Proceedings of the 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025)"
 publication_short: ""
 
-abstract: "We provide an algorithm that maintains, against an adaptive adversary, a (1−ε)-approximate maximum matching in n-node m-edge general (not necessarily bipartite) undirected graph undergoing edge deletions with high probability with (amortized) O(poly(ε^{−1}, log n)) time per update. We also obtain the same update time for maintaining a fractional approximate weighted matching (and hence an approximation to the value of the maximum weight matching) and an integral approximate weighted matching in dense graphs. Our unweighted result improves upon the prior state-of-the-art which includes a poly(log n)⋅2^O(ε^{-2}) update time [Assadi-Bernstein-Dudeja 2022] and an O(√m ε^{−2}) update time [Gupta-Peng 2013], and our weighted result improves upon the O(√m ε^{−O(1/ε)} log n) update time due to [Gupta-Peng 2013].
-To obtain our results, we generalize a recent optimization approach to dynamic algorithms from [Jambulapati-Jin-Sidford-Tian 2022]. We show that repeatedly solving entropy-regularized optimization problems yields a lazy updating scheme for fractional decremental problems with a near-optimal number of updates. To apply this framework we develop optimization methods compatible with it and new dynamic rounding algorithms for the matching polytope."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""

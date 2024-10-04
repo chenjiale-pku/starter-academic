@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "In Proceedings of the 4th Symposium on Foundations of Responsible Computing (FORC 2023). **Best Student Paper**"
 publication_short: ""
 
-abstract: "This paper studies grading algorithms for randomized exams. In a randomized exam, each student is asked a small number of random questions from a large question bank. The predominant grading rule is simple averaging, i.e., calculating grades by averaging scores on the questions each student is asked, which is fair ex-ante, over the randomized questions, but not fair ex-post, on the realized questions. The fair grading problem is to estimate the average grade of each student on the full question bank. The maximum-likelihood estimator for the Bradley-Terry-Luce model on the bipartite student-question graph is shown to be consistent with high probability when the number of questions asked to each student is at least the cubed-logarithm of the number of students. In an empirical study on exam data and in simulations, our algorithm based on the maximum-likelihood estimator significantly outperforms simple averaging in prediction accuracy and ex-post fairness even with a small class and exam size."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
